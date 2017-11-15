@@ -33,7 +33,7 @@ Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: no
     '<block type="motion_movesteps" id="motion_movesteps">'+
       '<value name="STEPS">'+
         '<shadow type="math_number">'+
-          '<field name="NUM">10</field>'+
+          '<field name="NUM">5</field>'+
         '</shadow>'+
       '</value>'+
     '</block>'+
